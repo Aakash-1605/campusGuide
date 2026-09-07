@@ -1,0 +1,6 @@
+{
+  "name": "College Directory & Campus Portal",
+  "description": "Explore, enlist, and manage college listings with detailed campus photo galleries, search filters, and image upload capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
